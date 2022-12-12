@@ -1,12 +1,6 @@
 # IMA201--Telecom-Paris
 Bases du traitement et de l'analyse des images numériques ; introduction d'outils mathématiques classiques de représentation des images numériques
 
----
-#### **Branches** :
-- Main
-- Projet
-- TPs
----
 ### _Description de l'UE_ :
 
 Ce cours couvre les bases du traitement et de l'analyse des images numériques :
