@@ -1,15 +1,15 @@
 # IMA201--Telecom-Paris
-Bases du traitement et de l'analyse des images numériques ; introduction d'outils mathématiques classiques de représentation des images numériques
+Basics of digital image processing and analysis; introduction to classical mathematical tools for digital image representation.
 
-### _Description de l'UE_ :
+### _Course description_ :
 
-Ce cours couvre les bases du traitement et de l'analyse des images numériques :
-   - chaîne d'acquisition des images et appareil photo numérique (optique, échantillonnage, bruit, radiométrie, couleur),
-   - restauration et amélioration d'images (débruitage, problèmes inverses et déconvolution, super-résolution, inpainting, etc.),
-   - analyse des images (opérateurs différentiels, segmentation, descripteurs locaux, texture, représentation des formes),  
+This course covers the basics of digital image processing and analysis:
+   - image acquisition chain and digital camera (optics, sampling, noise, radiometry, color),
+   - image restoration and enhancement (denoising, inverse problems and deconvolution, super-resolution, inpainting, etc.),
+   - image analysis (differential operators, segmentation, local descriptors, texture, shape representation),  
    
-Et introduit des outils mathématiques classiques de représentation des images numériques ; tous ces outils ont la particularité de proposer une représentation des images à plusieurs échelles (plusieurs niveaux de détail) :  
-  - représentation multi-échelle gaussienne et laplacienne, variantes,
-  - décomposition en ondelettes,
-  - représentations discrètes,
-  - morphologie mathématique.
+And introduces classic mathematical tools for digital image representation; all these tools have the distinctive feature of offering image representation at several scales (several levels of detail):  
+  - multi-scale Gaussian and Laplacian representation, variants,
+  - wavelet decomposition,
+  - discrete representations,
+  - mathematical morphology.
